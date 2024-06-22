@@ -1,0 +1,24 @@
+.profile-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.profile-box h1{
+    margin-bottom: 20px;
+}
+
+.profile-content {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+.profile-content button{
+    border: 2px solid orange;
+    padding: 8px 4px;
+}
+
+.data {
+    display: flex;
+    flex-direction: row;
+}
