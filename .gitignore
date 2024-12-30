@@ -1,0 +1,9 @@
+./backEnd/.env
+./backEnd/node_modules
+./backEnd/package-lock.json
+./backEnd/README.md
+
+./frontEnd/.env
+./frontEnd/node_modules
+./frontEnd/package-lock.json
+./frontEnd/README.md

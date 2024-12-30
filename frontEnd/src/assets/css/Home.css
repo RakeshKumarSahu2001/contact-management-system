@@ -1,0 +1,19 @@
+.home {
+    display: flex;
+    color:rgb(49, 35, 35);
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+    padding-inline: 30px;
+}
+
+.home-title{
+    font-size: 2rem;
+    margin-bottom: 10px;
+    word-spacing: 1%;
+}
+.home-description{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
