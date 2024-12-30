@@ -1,9 +1,14 @@
-./backEnd/.env
-./backEnd/node_modules
-./backEnd/package-lock.json
-./backEnd/README.md
+# Ignore environment files
+backEnd/.env
+frontEnd/.env
 
-./frontEnd/.env
-./frontEnd/node_modules
-./frontEnd/package-lock.json
-./frontEnd/README.md
+# Ignore node_modules directories
+backEnd/node_modules/
+frontEnd/node_modules/
+
+# Ignore lock files
+backEnd/package-lock.json
+frontEnd/package-lock.json
+
+# Ignore logs and temporary files (optional)
+*.log
